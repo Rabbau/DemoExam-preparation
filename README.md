@@ -39,7 +39,7 @@ psql -U postgres -d shoe_shop -f database/seed_data.sql
 
 Подключение к БД настраивается в `config.ini`. Тестовые логины: `admin`, `manager`, `client1`, `client2`, `client3`.
 
-Тесты: `.venv\Scripts\python -m pytest`. Сборка exe: `build_exe.bat` (результат в `dist\ShoeShop`).
+Сборка exe: `build_exe.bat` (результат в `dist\ShoeShop`).
 
 ## Структура
 
