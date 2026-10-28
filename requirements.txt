@@ -1,0 +1,4 @@
+PyQt5==5.15.11
+psycopg2-binary==2.9.13
+pytest
+pyinstaller
